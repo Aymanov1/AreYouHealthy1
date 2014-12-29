@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AreYouHealthy</string>
+    <string name="act_name">EnregistrementEtat</string>
+    
+    <string name="act_name2">TestPoulse</string>
+    <string name="backache">BACK-ACHE</string>
+   <string name="headache">HEAD-ACHE</string>
+   <string name="chestache">CHEST-ACHE</string>
+   <string name="Constipation">Constipation</string>
+   <string name="Diahrea">Diahrea</string>
+   <string name="act_name3">Respiration</string>
+    <string name="YES">YES</string>
+     <string name="NO">NO</string>
+      
+    
+</resources>

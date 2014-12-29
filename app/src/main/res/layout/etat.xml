@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/white"
+    android:gravity="top|center_vertical"
+    android:orientation="vertical" 
+              
+>
+    <TextView   
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medical-Tests"
+        android:textSize="24dp"
+        android:layout_gravity="center"
+    />
+    <LinearLayout   android:id="@+id/l2" 
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5sp"
+                    android:orientation="vertical"
+                    android:layout_gravity="center">
+        
+        <Button
+            android:id="@+id/declancher"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Declancher"
+        />
+        <Button
+            android:id="@+id/annuler"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Annuler"
+        />
+         
+    </LinearLayout>
+
+    
+    
+    
+</LinearLayout>
